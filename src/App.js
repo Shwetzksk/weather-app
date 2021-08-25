@@ -126,7 +126,7 @@ function App(props) {
 
 
         <footer className={`text-center text-xs py-10 ${loading?'fixed left-1/2 bottom-0':'mt-10'} mx-auto`}>
-          <p>created by Shweta challenged - DevChalleneges</p>
+          <p>created by <a href="https://github.com/Shwetzksk" target="_blank" rel="nopreference noreferrer">Shweta</a> - <a href="https://devchallenges.io/" target="_blank" rel="nopreference noreferrer">DevChalleneges</a></p>
         </footer>
         
 
